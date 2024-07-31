@@ -1,10 +1,9 @@
  
 ### This is a simple HTML and Javascript site used for trying out Tailwind CSS ###
-Module 3: The goal of this project was to try out Tailwind, and make a responsive site.
-The Travel Blog is a simple static website that displays a list of blog posts and individual post details. 
-It uses HTML, CSS (Tailwind CSS), and JavaScript for functionality.
+Module 3: 
+The goal of this project was to try out Tailwind, and make a responsive site.
+The Travel Blog is a fictional blog, a simple static website that displays a list of blog posts and individual post details. It's purpose is to display the use of Tailwind with simple javascript and html. 
 I tried keeping the code structure consistent between files and kept different functionalities in seperate files. 
-Tailwind was used for styling. 
 
 -----
 
