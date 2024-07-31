@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel Blog</title>
+    <link href="css/tailwind.css" rel="stylesheet">
+</head>
+
+<body class="bg-gray-100">
+    <!-- Navbar -->
+    <header class="bg-gray-100 shadow-md">
+        <div class="container mx-auto px-6 py-4 flex items-center justify-between">
+            <div class="text-xl font-semibold text-gray-800">TRAVEL BLOG</div>
+            <nav id="nav-menu" class="hidden md:flex space-x-4">
+                <a href="index.html" class="text-gray-600 hover:text-gray-800">Home</a>
+                <a href="blog.html" class="text-gray-600 hover:text-gray-800">Blog</a>
+                <a href="contact.html" class="text-gray-600 hover:text-gray-800">Contact</a>
+            </nav>
+        </div>
+    </header>
+
+<!-- Contact Form   -->
+    <div class="container mx-auto px-6 py-12">
+        <div class="bg-white rounded-lg shadow-md overflow-hidden max-w-md mx-auto">
+            <h1 class="text-2xl font-semibold text-gray-800 p-6 border-b">Contact Us</h1>
+            <form id="contactForm" class="p-6">
+                <div class="mb-4">
+                    <label for="name" class="block text-sm font-medium text-gray-700">Your Name</label>
+                    <input type="text" id="name" name="name" class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm" required>
+                </div>
+                <div class="mb-4">
+                    <label for="email" class="block text-sm font-medium text-gray-700">Your Email</label>
+                    <input type="email" id="email" name="email" class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm" required>
+                </div>
+                <div class="mb-4">
+                    <label for="message" class="block text-sm font-medium text-gray-700">Message</label>
+                    <textarea id="message" name="message" rows="4" class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm" required></textarea>
+                </div>
+                <button id="submitButton" type="submit" class="bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600">Send</button>
+            </form>
+        </div>
+    </div>
+
+<!-- Footer -->
+    <footer class="bg-white-800 text-gray-100 text-center py-4 mt-4">
+        &copy; 2023 Travel Blog. All rights reserved.
+    </footer>
+
+<!-- Pop up message for when form is submitted. This is just a placeholder for fun until actual form handling would be implemented -->
+    <script>document.getElementById('contactForm').addEventListener('submit', function(event){
+            event.preventDefault(); 
+            alert('Thank you for contacting us. Your message has been delivered.')
+        })
+    </script>
+
+</body>
+</html>

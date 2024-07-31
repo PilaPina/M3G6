@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "date": "12.july 2023",
+        "title": "Kauai's Hidden Waterfalls",
+        "content": "Kauai, the Garden Isle of Hawaii, is a paradise for nature enthusiasts. Beyond its postcard-perfect beaches, this rugged island boasts a treasure trove of waterfalls—some easily accessible, others tucked away in the heart of lush jungles. ",
+        "imageUrl": "images/pexels-anytiffng-2526431.jpg"
+    },
+    {
+        "id": 2,
+        "date": "13.july 2023",
+        "title": "Longest flight ever",
+        "content": "Flying from Hawaii to Italy was the longest flight ever. We were so tired and slept a lot.",
+        "imageUrl": "images/pexels-eric-fotos-1684315-14880761.jpg"
+    },
+    {
+        "id": 3,
+        "date": "15.july 2023",
+        "title": "It's all about the swimming.",
+        "content": "We never left the pool really after we landed in Italy. We were staying in a house in the country side and it included a pool. Kids would've slept in it if we'd have let them. ",
+        "imageUrl": "images/pexels-jsalamanca-61129.jpg"
+    },
+    {
+        "id": 4,
+        "date": "16.july 2023",
+        "title": "It was beautful but too crowded",
+        "content": "The church in the square is so big and grey from the outside, but on the inside it's quite magical. Wish I could visit it when it's empty.",
+        "imageUrl": "images/pexels-rachel-claire-6126487.jpg"
+    },
+    {
+        "id": 5,
+        "date": "18.july 2023",
+        "title": "The best city ever",
+        "content": "We walked around this great city for hours. Even the kids loved it. ",
+        "imageUrl": "images/pexels-rafaelf1-1060803.jpg"
+    },
+    {
+        "id": 6,
+        "date": "21.july 2023",
+        "title": "Our favorite day",
+        "content": "The ferry between the islands was such a lovely ride. We thought about going the next day too.",
+        "imageUrl": "images/pexels-hilaldolovac-7917870.jpg"
+    },
+    {
+        "id": 7,
+        "date": "29.july 2023",
+        "title": "ooohhh Venice",
+        "content": "I could live there. We're planning the move as we speak. But I'd have to bring food with me. Couldn't eat a thing while we were there. ",
+        "imageUrl": "images/pexels-david-bartus-43782-586687.jpg"
+    },
+    {
+        "id": 8,
+        "date": "2.august 2023",
+        "title": "Festival",
+        "content": "The umbrella festival is held every year in july when the weather is the hottest.",
+        "imageUrl": "images/pexels-ekrulila-2218344.jpg"
+    },
+    {
+        "id": 9,
+        "date": "4.august 2023",
+        "title": "Beach towns are a must",
+        "content": "Getting here was hard but staying here was easy. The water is so blue and clear.",
+        "imageUrl": "images/pexels-vince-2147487.jpg"
+    },
+    {
+        "id": 1,
+        "date": "6.august 2023",
+        "title": "Waterfalls",
+        "content": "Kauai, the Garden Isle of Hawaii, is a paradise for nature enthusiasts. Beyond its postcard-perfect beaches, this rugged island boasts a treasure trove of waterfalls—some easily accessible, others tucked away in the heart of lush jungles. ",
+        "imageUrl": "images/pexels-anytiffng-2526431.jpg"
+    },
+    {
+        "id": 2,
+        "date": "7.august 2023",
+        "title": "Greatest flight ever",
+        "content": "Flying from Hawaii to Italy was the longest flight ever. We were so tired and slept a lot.",
+        "imageUrl": "images/pexels-eric-fotos-1684315-14880761.jpg"
+    },
+    {
+        "id": 3,
+        "date": "12.august 2023",
+        "title": "It's all about the swimming.",
+        "content": "We never left the pool really after we landed in Italy. We were staying in a house in the country side and it included a pool. Kids would've slept in it if we'd have let them. ",
+        "imageUrl": "images/pexels-jsalamanca-61129.jpg"
+    },
+    {
+        "id": 4,
+        "date": "16.august 2023",
+        "title": "It was beautful but too crowded",
+        "content": "The churc in the square is so big and grey from the outside, but on the inside it's quite magical. Wish I could visit it when it's empty.",
+        "imageUrl": "images/pexels-rachel-claire-6126487.jpg"
+    }
+]

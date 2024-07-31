@@ -1,0 +1,15 @@
+{
+  "name": "travel-blog",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build:css": "tailwindcss -i ./css/styles.css -o ./css/tailwind.css --watch"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.39"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.6"
+  }
+}
